@@ -6,7 +6,6 @@ Strumento di setup automatico per nuovi PC Windows, ad uso dei tecnici RPM2000. 
 
 | File | Descrizione |
 |---|---|
-| `installer_readytogo.cmd` | Launcher: abilita temporaneamente l'esecuzione di script PowerShell e avvia `script.ps1` |
 | `script.ps1` | Script principale con tutta la logica di installazione |
 | `README.md` | Questo file |
 
