@@ -75,3 +75,7 @@ Non usare `-noConsole`: lo script usa `Read-Host`/`Write-Host`/`Pause`, che rich
 - **Winget non disponibile**: lo script tenta la registrazione automatica; se fallisce, installare manualmente "App Installer" dal Microsoft Store
 - **Download fallito o file non valido**: lo script segnala l'errore e salta l'installazione corrispondente; controllare la cartella `%USERPROFILE%\Downloads` e la connessione di rete
 - **Installazione terminata con codice diverso da 0**: consultare la documentazione del produttore per il significato del codice di uscita specifico
+
+## Contact
+
+For questions, issues or collaboration: m4nifest0-tech@m4nifest0.it
